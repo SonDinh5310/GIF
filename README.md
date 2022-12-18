@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @sondinh5310, a student at UET - University of Engineering and Technology
+- 👋 Hi, I’m Son but you can call me James
+
+- 👋 I'm a student at UET - University of Engineering and Technology
 
 - 👀 I’m interested in web development and currently working hard to master it
 
